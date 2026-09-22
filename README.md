@@ -1,44 +1,47 @@
 <!-- ============================================= -->
-<!--                 GITHUB BANNER                 -->
+
+<!--              GITHUB PROFILE README            -->
+
 <!-- ============================================= -->
 
 <p align="center">
-  <img src="./assets/github-banner.png" width="100%" alt="Jaishree Chaure Banner">
+  <img src="./assets/github-banner.png" width="100%" alt="Shaha Mohammad Siddik Kayyum GitHub Banner">
 </p>
 
 <br>
 
 <h1 align="center">
-Hi, I'm Jaishree Chaure 👋
+  Hi, I'm Shaha Mohammad Siddik Kayyum 👋
 </h1>
 
 <h3 align="center">
-Cloud & DevOps Engineer
+  Aspiring Cloud & DevOps Engineer | AWS • Linux • Docker • CI/CD
 </h3>
 
 <p align="center">
-AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastructure
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaishree97&style=for-the-badge&color=0e75b6" />
-
-  <img src="https://img.shields.io/github/followers/Jaishree97?style=for-the-badge&cacheSeconds=60" />
-
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <a href="https://www.linkedin.com/in/shahmdsiddik1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shahmdsiddik1">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:shahmdsiddik1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- AWS Certified Cloud Practitioner (CLF-C02).
-- Passionate about Cloud Computing, DevOps, and Infrastructure Automation.
-- Building real-world Cloud & DevOps projects using AWS and open-source technologies.
-- Skilled in Python, MySQL, Linux, Git, and modern Cloud & DevOps tools.
-- Interested in Infrastructure as Code (IaC), CI/CD, Containerization, Cloud Security, and Automation.
-- Continuously learning through hands-on projects, technical documentation, and modern DevOps practices.
-- Actively documenting and sharing my Cloud & DevOps journey on GitHub.
+* 🎓 B.Tech Computer Science & Engineering student.
+* ☁️ Building my foundation in Cloud Computing and DevOps.
+* 🐧 Practicing Linux administration, networking, and troubleshooting.
+* 🔧 Working with AWS, Git, GitHub, Bash, Python, and Docker.
+* 🚀 Building hands-on projects to understand real-world infrastructure.
+* 📚 Learning Infrastructure as Code, CI/CD, containers, and cloud security.
+* 🔍 Interested in automation, observability, reliability, and scalable infrastructure.
+* 📝 Documenting my Cloud & DevOps learning journey through projects and technical notes.
 
 ---
 
@@ -47,7 +50,7 @@ AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastruct
 ### ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" height="40" />
 </p>
 
 ### 💻 Programming & Scripting
@@ -56,201 +59,204 @@ AWS Certified Cloud Practitioner • Building Production-Ready Cloud Infrastruct
   <img src="https://skillicons.dev/icons?i=python,bash" height="40" />
 </p>
 
-### 🐧 Operating Systems, Databases & Tools
+### 🐧 Linux, Git & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,mysql,git,github,vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" height="40" />
 </p>
 
 ### 📊 Monitoring & Observability
 
 <p>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus" height="40" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="40" />
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-- Kubernetes Fundamentals
-- Advanced Terraform Modules & Best Practices
-- Monitoring & Observability
-- Production-grade CI/CD Pipelines
-- Infrastructure Automation
-- Cloud Security Best Practices
+* ☁️ AWS Cloud Services
+* 🐧 Linux & Bash Scripting
+* 🌐 Computer Networking
+* 🐍 Python for Cloud & DevOps
+* 🐳 Docker & Containerization
+* 🔄 CI/CD with GitHub Actions
+* 🏗️ Terraform & Infrastructure as Code
+* ☸️ Kubernetes
+* 📊 Monitoring & Observability
+* 🔐 Cloud & Infrastructure Security
 
 ---
 
-## 🌱 Currently Building
+## 🔨 Currently Building
 
-- Production-ready Cloud Infrastructure projects.
-- CI/CD pipelines using GitHub Actions.
-- Terraform-based AWS infrastructure deployments.
-- Linux administration and troubleshooting labs.
-- Technical documentation for Cloud & DevOps concepts.
-  
+* AWS cloud infrastructure labs
+* Linux administration & troubleshooting labs
+* Bash automation scripts
+* Cloud monitoring and alerting projects
+* Dockerized applications
+* CI/CD pipelines
+* Infrastructure as Code projects
+* Cloud & DevOps technical documentation
+
 ---
 
 ## 📌 Featured Projects
 
-### 🚀 90 Days of DevOps
-> My hands-on Cloud & DevOps learning journey.
+### ☁️ AWS Cloud Monitoring & Alerting
 
-- [90DaysOfDevOps](https://github.com/Jaishree97/90DaysOfDevOps)
+> Hands-on AWS monitoring project focused on EC2 infrastructure, CloudWatch metrics, logs, and alerting.
 
----
+🔗 [AWS Cloud Monitoring & Alerting](https://github.com/shahmdsiddik1/aws-cloudwatch-monitoring-alerting)
 
-### 💻 DevBoard
-> Production-ready full-stack DevOps application built with modern engineering practices.
-
-- [DevBoard](https://github.com/Jaishree97/devboard)
-  - Go backend
-  - PostgreSQL database
-  - Docker & Docker Compose
-  - GitHub Actions CI/CD
-  - DevSecOps automation
+**Technologies:**
+`AWS` `EC2` `CloudWatch` `IAM` `Linux`
 
 ---
 
-### ☁️ Cloud & AWS Projects
+### 🐧 Linux & Bash Projects
 
-> Hands-on AWS projects covering networking, compute, scalability, and web hosting.
+> Practical Linux administration, scripting, automation, and troubleshooting exercises.
 
-- [AWS Static Website Hosting with S3 & CloudFront](https://github.com/Jaishree97/aws-static-website-s3-cloudfront)
-- [EC2 Apache Web Server Setup](https://github.com/Jaishree97/ec2-apache-web-server)
-- [AWS Application Load Balancer & Auto Scaling Project](https://github.com/Jaishree97/aws-alb-auto-scaling-project)
-- [AWS VPC Networking Lab](https://github.com/Jaishree97/aws-vpc-networking-lab)
-- [AWS Elastic Network Interface (ENI) Lab](https://github.com/Jaishree97/aws-eni-lab)
+**Technologies:**
+`Linux` `Bash` `Shell Scripting` `Git`
 
 ---
 
-### 🏗️ Terraform Projects
+### 🌐 Cloud & Networking Labs
 
-> Infrastructure as Code (IaC) projects built using Terraform and AWS.
+> Hands-on labs covering AWS networking, VPC concepts, EC2 connectivity, security groups, routing, and troubleshooting.
 
-- [TerraWeek](https://github.com/Jaishree97/TerraWeek)
-
----
-
-### ⚡ GitHub Actions Projects
-
-> Hands-on GitHub Actions workflows, CI/CD automation, and production-ready DevSecOps projects.
-
-- [GitHub Actions Practice](https://github.com/Jaishree97/github-actions-practice)
-  - Workflow basics, triggers, matrices, runners, artifacts, caching, secrets, and reusable workflows.
-
-- [GitHub Actions Capstone](https://github.com/Jaishree97/github-actions-capstone) ⭐
-  - Production-style CI/CD pipeline featuring reusable workflows, Docker image builds, automated testing, Trivy security scanning, Dependabot, SARIF security reporting, artifacts, and deployment automation.
+**Technologies:**
+`AWS VPC` `EC2` `Networking` `Security Groups`
 
 ---
 
-### 🐧 Linux Projects
+### 🏗️ Infrastructure as Code
 
-> Linux administration, monitoring, and troubleshooting labs.
+> Learning and building infrastructure using Terraform with AWS.
 
-- [Linux Monitoring & Troubleshooting Lab](https://github.com/Jaishree97/linux-monitoring-troubleshooting-lab)
-- [Nginx & HTTPD Troubleshooting Lab](https://github.com/Jaishree97/nginx-httpd-troubleshooting-lab)
-
----
-
-### 📚 DevOps Notes Repository
-
-> Technical notes, hands-on labs, cheat sheets, and Cloud & DevOps documentation.
-
-- [DevOps Notes](https://github.com/Jaishree97/DevOps-Notes)
+**Technologies:**
+`Terraform` `AWS` `IaC`
 
 ---
 
-## 🏆 Certifications
+## 📂 Repository Categories
 
-- AWS Certified Cloud Practitioner (CLF-C02)
-- AWS re/Start Graduate
-- Python Certification
-- SQL Certification
-- Git & GitHub Certification
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaishree-chaure">
-    <img src="https://img.shields.io/badge/View-Certifications_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+| Area          | Focus                            |
+| ------------- | -------------------------------- |
+| ☁️ AWS        | Cloud infrastructure & services  |
+| 🐧 Linux      | Administration & troubleshooting |
+| 🌐 Networking | VPC, routing & connectivity      |
+| 🔧 Bash       | Automation & scripting           |
+| 🐍 Python     | Cloud & DevOps automation        |
+| 🐳 Docker     | Containerization                 |
+| 🔄 CI/CD      | GitHub Actions & automation      |
+| 🏗️ Terraform | Infrastructure as Code           |
+| 📊 Monitoring | CloudWatch & observability       |
 
 ---
 
-## 💼 Open To Opportunities
+## 📈 My Learning Journey
 
-- Cloud Engineer
-- DevOps Engineer
-- Cloud Support Engineer
-- Platform Engineer
-- Site Reliability Engineer (Entry-Level)
+```text
+Linux & Bash
+      ↓
+Networking & Git
+      ↓
+Python for Automation
+      ↓
+AWS Cloud
+      ↓
+Docker
+      ↓
+CI/CD
+      ↓
+Terraform
+      ↓
+Kubernetes
+      ↓
+Cloud & DevOps Engineering
+```
+
+---
+
+## 🎯 Career Goal
+
+> To become a production-ready Cloud & DevOps Engineer capable of building, automating, monitoring, securing, and maintaining reliable cloud infrastructure.
+
+My long-term interests include:
+
+* ☁️ Cloud Engineering
+* ⚙️ DevOps
+* 🏗️ Infrastructure as Code
+* 🔄 CI/CD Automation
+* 📊 Cloud Observability
+* 🤖 MLOps & AI Infrastructure
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jaishree97&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahmdsiddik1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaishree97&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmdsiddik1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=Jaishree97&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=shahmdsiddik1&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Jaishree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaishree97&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Jaishree97)
+<p align="center">
+  <a href="https://github.com/shahmdsiddik1">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmdsiddik1&theme=tokyo-night&hide_border=true&area=true" />
+  </a>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Jaishree97/Jaishree97/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/shahmdsiddik1/shahmdsiddik1/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaishree-chaure">
-    <img src="https://img.shields.io/badge/LinkedIn-Jaishree%20Chaure-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/shahmdsiddik1">
+    <img src="https://img.shields.io/badge/LinkedIn-Shaha%20Mohammad%20Siddik%20Kayyum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:jaishreechoure2016@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:shahmdsiddik1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shahmdsiddik1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Jaishree97">
-    <img src="https://img.shields.io/badge/GitHub-Jaishree97-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/shahmdsiddik1">
+    <img src="https://img.shields.io/badge/GitHub-shahmdsiddik1-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🎯 Career Goal
+## 🌱 What You'll Find Here
 
-> To become a production-ready Cloud & DevOps Engineer capable of designing, automating, securing, and managing scalable cloud infrastructure and modern CI/CD systems.
+This GitHub is my Cloud & DevOps engineering portfolio.
 
----
+I use it to:
 
-## 🚀 Why This GitHub Exists
+* 📚 Learn new technologies
+* 🔨 Build hands-on projects
+* 🧪 Experiment with cloud infrastructure
+* ⚙️ Automate repetitive tasks
+* 📝 Document technical concepts
+* 🚀 Track my progress as I grow
 
-This GitHub is my Cloud & DevOps engineering portfolio—where I learn, build, document, and automate real-world projects.
-
-Every repository reflects practical learning, hands-on experimentation, and continuous improvement as I work toward becoming a production-ready Cloud & DevOps Engineer.
-
-My focus is simple:
-
-- Learn continuously.
-- Build production-ready projects.
-- Share technical knowledge.
-- Automate repetitive tasks.
-- Grow as a Cloud & DevOps Engineer.
-
-> Learn. Build. Automate. Deploy. Repeat.
-
----
+> **Learn. Build. Automate. Deploy. Repeat.**
