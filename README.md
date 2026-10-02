@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/shaikh-hujef-89b0b9399">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/shahmdsiddik1">
+  <a href="https://github.com/huzef-shaikh">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:shahmdsiddik1@gmail.com">
@@ -346,7 +346,7 @@ My long-term interests include:
     <img src="https://img.shields.io/badge/Email-shahmdsiddik1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://github.com/shahmdsiddik1">
+  <a href="https://github.com/huzef-shaikh">
     <img src="https://img.shields.io/badge/GitHub-shahmdsiddik1-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
