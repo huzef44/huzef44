@@ -342,7 +342,7 @@ My long-term interests include:
     <img src="https://img.shields.io/badge/LinkedIn-Shaha%20Mohammad%20Siddik%20Kayyum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:shahmdsiddik1@gmail.com">
+  <a href="mailto:shaikhhujef9603@gmail.com">
     <img src="https://img.shields.io/badge/Email-shahmdsiddik1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
