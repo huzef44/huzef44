@@ -98,9 +98,6 @@
 
 **CloudWatch • Monitoring • Logging • Observability**
 
-### 📈 Data Analytics & AI/ML
-
-**NumPy • Pandas • Power BI • Machine Learning**
 
 
 ---
