@@ -44,7 +44,6 @@
 * 📝 Documenting my Cloud & DevOps learning journey through projects and technical notes.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & DevOps
@@ -65,11 +64,44 @@
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" height="40" />
 </p>
 
+### 🏗️ Infrastructure & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform,ansible" height="40" />
+</p>
+
+### 🔄 CI/CD & GitOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes" height="40" />
+</p>
+
+**GitOps • CI/CD Automation • Deployment Workflows**
+
+### 🐘 Big Data & Data Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=hadoop,kafka" height="40" />
+</p>
+
+**Hadoop • HDFS • Cloudera CDP • Impala • Kafka**
+
+### ⚙️ DataOps
+
+**DataOps • Data Workflows • Data Automation • Distributed Data Processing**
+
 ### 📊 Monitoring & Observability
 
 <p>
   <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="40" />
 </p>
+
+**CloudWatch • Monitoring • Logging • Observability**
+
+### 📈 Data Analytics & AI/ML
+
+**NumPy • Pandas • Power BI • Machine Learning**
+
 
 ---
 
