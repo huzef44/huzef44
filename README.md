@@ -11,11 +11,11 @@
 <br>
 
 <h1 align="center">
-  Hi, I'm Shaha Mohammad Siddik Kayyum 👋
+  Hi, I'm Shaikh Hujef Majidhusen 👋
 </h1>
 
 <h3 align="center">
-  Aspiring Cloud & DevOps Engineer | AWS • Linux • Docker • CI/CD
+  Aspiring Cloud & DevOps Engineer | AWS • Linux • Git • Docker • CI/CD • DataOps • Kubernetes • Terraform • GitOps • Hadoop • Cloudera CDP • Impala • Kafka
 </h3>
 
 <p align="center">
@@ -37,7 +37,7 @@
 * 🎓 B.Tech Computer Science & Engineering student.
 * ☁️ Building my foundation in Cloud Computing and DevOps.
 * 🐧 Practicing Linux administration, networking, and troubleshooting.
-* 🔧 Working with AWS, Git, GitHub, Bash, Python, and Docker.
+* 🔧 Working with AWS, Git, GitHub, Bash, Python, and Docker,Kubernetes,Terraform,Cloudera CDP,Impala,Kafka
 * 🚀 Building hands-on projects to understand real-world infrastructure.
 * 📚 Learning Infrastructure as Code, CI/CD, containers, and cloud security.
 * 🔍 Interested in automation, observability, reliability, and scalable infrastructure.
@@ -90,14 +90,25 @@
 
 ## 🔨 Currently Building
 
-* AWS cloud infrastructure labs
+## 🔨 Currently Building
+
+* AWS cloud infrastructure & deployment labs
 * Linux administration & troubleshooting labs
 * Bash automation scripts
-* Cloud monitoring and alerting projects
-* Dockerized applications
-* CI/CD pipelines
-* Infrastructure as Code projects
+* Git & GitHub version-control workflows
+* Dockerized applications & container workflows
+* CI/CD pipelines with automated build & deployment
+* Kubernetes deployment & container orchestration labs
+* Terraform Infrastructure as Code projects
+* GitOps-based deployment workflows
+* Cloud monitoring & alerting projects
+* DataOps workflows and automation
+* Hadoop & HDFS big-data labs
+* Cloudera CDP cluster administration & management labs
+* Apache Impala data-querying labs
+* Apache Kafka data-streaming labs
 * Cloud & DevOps technical documentation
+
 
 ---
 
@@ -143,38 +154,66 @@
 
 ## 📂 Repository Categories
 
-| Area          | Focus                            |
-| ------------- | -------------------------------- |
-| ☁️ AWS        | Cloud infrastructure & services  |
-| 🐧 Linux      | Administration & troubleshooting |
-| 🌐 Networking | VPC, routing & connectivity      |
-| 🔧 Bash       | Automation & scripting           |
-| 🐍 Python     | Cloud & DevOps automation        |
-| 🐳 Docker     | Containerization                 |
-| 🔄 CI/CD      | GitHub Actions & automation      |
-| 🏗️ Terraform | Infrastructure as Code           |
-| 📊 Monitoring | CloudWatch & observability       |
+| Area            | Focus                                 |
+| --------------- | ------------------------------------- |
+| ☁️ AWS          | Cloud infrastructure & services       |
+| 🐧 Linux        | Administration & troubleshooting      |
+| 🌐 Networking   | VPC, routing & connectivity           |
+| 🔧 Bash         | Automation & scripting                |
+| 🐍 Python       | Cloud & DevOps automation             |
+| 🌿 Git & GitHub | Version control & collaboration       |
+| 🐳 Docker       | Containerization & deployment         |
+| 🔄 CI/CD        | GitHub Actions & automation           |
+| ☸️ Kubernetes   | Container orchestration & deployments |
+| 🏗️ Terraform   | Infrastructure as Code                |
+| 🔁 GitOps       | Git-based deployment workflows        |
+| 📊 Monitoring   | CloudWatch & observability            |
+| ⚙️ DataOps      | Data workflows & automation           |
+| 🐘 Hadoop       | HDFS & distributed data processing    |
+| 🟣 Cloudera CDP | Big-data cluster management           |
+| 🔎 Impala       | Distributed SQL & data querying       |
+| 📨 Kafka        | Event streaming & messaging           |
 
 ---
 
 ## 📈 My Learning Journey
 
 ```text
-Linux & Bash
+Linux Fundamentals
       ↓
-Networking & Git
+Bash & Shell Scripting
+      ↓
+Networking Fundamentals
+      ↓
+Git & GitHub
       ↓
 Python for Automation
       ↓
-AWS Cloud
+AWS Cloud Fundamentals
       ↓
-Docker
+Cloud Infrastructure & Services
       ↓
-CI/CD
+Docker & Containerization
       ↓
-Terraform
+CI/CD & GitHub Actions
       ↓
-Kubernetes
+Terraform & Infrastructure as Code
+      ↓
+Kubernetes & Container Orchestration
+      ↓
+GitOps & Automated Deployments
+      ↓
+Cloud Monitoring & Observability
+      ↓
+Hadoop & HDFS
+      ↓
+Cloudera CDP
+      ↓
+Impala & Distributed SQL
+      ↓
+Kafka & Data Streaming
+      ↓
+DataOps & Data Workflows
       ↓
 Cloud & DevOps Engineering
 ```
@@ -183,15 +222,54 @@ Cloud & DevOps Engineering
 
 ## 🎯 Career Goal
 
-> To become a production-ready Cloud & DevOps Engineer capable of building, automating, monitoring, securing, and maintaining reliable cloud infrastructure.
+To build a strong career in **Cloud & DevOps Engineering**, with hands-on experience in AWS, Linux, Docker, CI/CD, Terraform, Kubernetes, GitOps, DataOps, and Big Data technologies.
+
+```
+
+### 🔥 Is order ka logic
+
+**Foundation:**
+Linux → Bash → Networking → Git → Python
+
+⬇️
+
+**Cloud:**
+AWS → Infrastructure
+
+⬇️
+
+**DevOps:**
+Docker → CI/CD → Terraform → Kubernetes → GitOps → Monitoring
+
+⬇️
+
+**Big Data / DataOps:**
+Hadoop → Cloudera CDP → Impala → Kafka → DataOps
+
+⬇️
+
+**Final direction:**
+☁️ **Cloud & DevOps Engineering**
+
+Ye GitHub README me tumhari learning journey ko **beginner → intermediate → advanced → career direction** ke form me clearly show karega.
+```
+
+
+## 🎯 Career Goal
+
+> To become a production-ready Cloud & DevOps Engineer capable of building, automating, deploying, monitoring, securing, and maintaining reliable cloud infrastructure and data platforms.
 
 My long-term interests include:
 
-* ☁️ Cloud Engineering
-* ⚙️ DevOps
-* 🏗️ Infrastructure as Code
-* 🔄 CI/CD Automation
-* 📊 Cloud Observability
+* ☁️ Cloud Engineering & AWS
+* ⚙️ DevOps & Platform Engineering
+* 🏗️ Infrastructure as Code with Terraform
+* 🔄 CI/CD & GitOps Automation
+* ☸️ Kubernetes & Container Orchestration
+* 📊 Cloud Observability & Monitoring
+* ⚙️ DataOps & Data Engineering Workflows
+* 🐘 Big Data & Distributed Systems
+* 📨 Data Streaming with Kafka
 * 🤖 MLOps & AI Infrastructure
 
 ---
@@ -231,7 +309,7 @@ My long-term interests include:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shahmdsiddik1">
+  <a href="https://www.linkedin.com/in/shaikh-hujef-89b0b9399">
     <img src="https://img.shields.io/badge/LinkedIn-Shaha%20Mohammad%20Siddik%20Kayyum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -248,15 +326,25 @@ My long-term interests include:
 
 ## 🌱 What You'll Find Here
 
-This GitHub is my Cloud & DevOps engineering portfolio.
+This GitHub is my **Cloud, DevOps & Data Engineering learning portfolio**, where I document my journey from fundamentals to practical cloud and data engineering technologies.
 
 I use it to:
 
-* 📚 Learn new technologies
-* 🔨 Build hands-on projects
-* 🧪 Experiment with cloud infrastructure
-* ⚙️ Automate repetitive tasks
-* 📝 Document technical concepts
-* 🚀 Track my progress as I grow
+* 📚 Learn and practice **Python, Linux, Git & GitHub**
+* ☁️ Build hands-on **AWS Cloud** labs and infrastructure projects
+* 🐧 Practice **Linux administration, troubleshooting & Bash scripting**
+* 🐘 Explore **Hadoop, HDFS & Cloudera CDP**
+* 🔎 Work with **Impala** for distributed SQL and data querying
+* 📨 Learn **Kafka** and data streaming concepts
+* 📊 Practice **DataOps & data engineering workflows**
+* 🐳 Build and deploy **Dockerized applications**
+* 🔄 Create **CI/CD pipelines and GitHub Actions workflows**
+* 🏗️ Practice **Terraform & Infrastructure as Code**
+* ☸️ Learn **Kubernetes & container orchestration**
+* 🔁 Explore **GitOps and automated deployments**
+* 📈 Practice **cloud monitoring, observability & troubleshooting**
+* 📝 Document my labs, projects, configurations and technical notes
+* 🚀 Track my progress toward becoming a **Cloud & DevOps Engineer**
 
-> **Learn. Build. Automate. Deploy. Repeat.**
+> **Learn. Build. Automate. Deploy. Monitor. Improve. Repeat.**
+
