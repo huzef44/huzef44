@@ -5,7 +5,7 @@
 <!-- ============================================= -->
 
 <p align="center">
-  <img src="./assets/github-banner.png" width="100%" alt="Shaha Mohammad Siddik Kayyum GitHub Banner">
+  <img src="./assets/github-banner.png" width="100%" alt="Shaikh Hujef Majidhusen GitHub Banner">
 </p>
 
 <br>
@@ -22,10 +22,12 @@
   <a href="https://www.linkedin.com/in/shaikh-hujef-89b0b9399">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/huzef-shaikh">
+
+  <a href="https://github.com/huzef44">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:shaikhhujef9603@gmail.com">
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shaikhhujef9603@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -37,13 +39,14 @@
 * 🎓 B.Tech Computer Science & Engineering student.
 * ☁️ Building my foundation in Cloud Computing and DevOps.
 * 🐧 Practicing Linux administration, networking, and troubleshooting.
-* 🔧 Working with AWS, Git, GitHub, Bash, Python, and Docker,Kubernetes,Terraform,Cloudera CDP,Impala,Kafka
+* 🔧 Working with AWS, Git, GitHub, Bash, Python, and Docker, Kubernetes, Terraform, Cloudera CDP, Impala, Kafka.
 * 🚀 Building hands-on projects to understand real-world infrastructure.
 * 📚 Learning Infrastructure as Code, CI/CD, containers, and cloud security.
 * 🔍 Interested in automation, observability, reliability, and scalable infrastructure.
 * 📝 Documenting my Cloud & DevOps learning journey through projects and technical notes.
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & DevOps
@@ -98,8 +101,6 @@
 
 **CloudWatch • Monitoring • Logging • Observability**
 
-
-
 ---
 
 ## 📚 Currently Learning
@@ -116,8 +117,6 @@
 * 🔐 Cloud & Infrastructure Security
 
 ---
-
-## 🔨 Currently Building
 
 ## 🔨 Currently Building
 
@@ -138,7 +137,6 @@
 * Apache Kafka data-streaming labs
 * Cloud & DevOps technical documentation
 
-
 ---
 
 ## 📌 Featured Projects
@@ -147,7 +145,7 @@
 
 > Hands-on AWS monitoring project focused on EC2 infrastructure, CloudWatch metrics, logs, and alerting.
 
-🔗 [AWS Cloud Monitoring & Alerting](https://github.com/shahmdsiddik1/aws-cloudwatch-monitoring-alerting)
+🔗 [AWS Cloud Monitoring & Alerting](https://github.com/huzef44)
 
 **Technologies:**
 `AWS` `EC2` `CloudWatch` `IAM` `Linux`
@@ -245,135 +243,3 @@ Kafka & Data Streaming
 DataOps & Data Workflows
       ↓
 Cloud & DevOps Engineering
-```
-
----
-
-## 🎯 Career Goal
-
-To build a strong career in **Cloud & DevOps Engineering**, with hands-on experience in AWS, Linux, Docker, CI/CD, Terraform, Kubernetes, GitOps, DataOps, and Big Data technologies.
-
-```
-
-### 🔥 Is order ka logic
-
-**Foundation:**
-Linux → Bash → Networking → Git → Python
-
-⬇️
-
-**Cloud:**
-AWS → Infrastructure
-
-⬇️
-
-**DevOps:**
-Docker → CI/CD → Terraform → Kubernetes → GitOps → Monitoring
-
-⬇️
-
-**Big Data / DataOps:**
-Hadoop → Cloudera CDP → Impala → Kafka → DataOps
-
-⬇️
-
-**Final direction:**
-☁️ **Cloud & DevOps Engineering**
-
-Ye GitHub README me tumhari learning journey ko **beginner → intermediate → advanced → career direction** ke form me clearly show karega.
-```
-
-
-## 🎯 Career Goal
-
-> To become a production-ready Cloud & DevOps Engineer capable of building, automating, deploying, monitoring, securing, and maintaining reliable cloud infrastructure and data platforms.
-
-My long-term interests include:
-
-* ☁️ Cloud Engineering & AWS
-* ⚙️ DevOps & Platform Engineering
-* 🏗️ Infrastructure as Code with Terraform
-* 🔄 CI/CD & GitOps Automation
-* ☸️ Kubernetes & Container Orchestration
-* 📊 Cloud Observability & Monitoring
-* ⚙️ DataOps & Data Engineering Workflows
-* 🐘 Big Data & Distributed Systems
-* 📨 Data Streaming with Kafka
-* 🤖 MLOps & AI Infrastructure
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahmdsiddik1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmdsiddik1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=shahmdsiddik1&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/shahmdsiddik1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmdsiddik1&theme=tokyo-night&hide_border=true&area=true" />
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/shahmdsiddik1/shahmdsiddik1/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shaikh-hujef-89b0b9399">
-    <img src="https://img.shields.io/badge/LinkedIn-Shaha%20Mohammad%20Siddik%20Kayyum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:shaikhhujef9603@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shahmdsiddik1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/huzef-shaikh">
-    <img src="https://img.shields.io/badge/GitHub-shahmdsiddik1-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🌱 What You'll Find Here
-
-This GitHub is my **Cloud, DevOps & Data Engineering learning portfolio**, where I document my journey from fundamentals to practical cloud and data engineering technologies.
-
-I use it to:
-
-* 📚 Learn and practice **Python, Linux, Git & GitHub**
-* ☁️ Build hands-on **AWS Cloud** labs and infrastructure projects
-* 🐧 Practice **Linux administration, troubleshooting & Bash scripting**
-* 🐘 Explore **Hadoop, HDFS & Cloudera CDP**
-* 🔎 Work with **Impala** for distributed SQL and data querying
-* 📨 Learn **Kafka** and data streaming concepts
-* 📊 Practice **DataOps & data engineering workflows**
-* 🐳 Build and deploy **Dockerized applications**
-* 🔄 Create **CI/CD pipelines and GitHub Actions workflows**
-* 🏗️ Practice **Terraform & Infrastructure as Code**
-* ☸️ Learn **Kubernetes & container orchestration**
-* 🔁 Explore **GitOps and automated deployments**
-* 📈 Practice **cloud monitoring, observability & troubleshooting**
-* 📝 Document my labs, projects, configurations and technical notes
-* 🚀 Track my progress toward becoming a **Cloud & DevOps Engineer**
-
-> **Learn. Build. Automate. Deploy. Monitor. Improve. Repeat.**
-
