@@ -303,16 +303,16 @@ My long-term interests include:
 
 ---
 
-## 📊 GitHub Statistics
+#### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahmdsiddik1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=huzef44&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmdsiddik1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzef44&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=shahmdsiddik1&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=huzef44&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -346,18 +346,17 @@ My long-term interests include:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaikh-hujef-89b0b9399">
-    <img src="https://img.shields.io/badge/LinkedIn-Shaha%20Mohammad%20Siddik%20Kayyum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Shaikh%20Hujef%20Majidhusen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:shaikhhujef9603@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shahmdsiddik1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-shaikhhujef9603%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://github.com/huzef-shaikh">
-    <img src="https://img.shields.io/badge/GitHub-shahmdsiddik1-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/huzef44">
+    <img src="https://img.shields.io/badge/GitHub-huzef44-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## 🌱 What You'll Find Here
