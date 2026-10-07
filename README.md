@@ -250,39 +250,6 @@ Cloud & DevOps Engineering
 
 ---
 
-## 🎯 Career Goal
-
-To build a strong career in **Cloud & DevOps Engineering**, with hands-on experience in AWS, Linux, Docker, CI/CD, Terraform, Kubernetes, GitOps, DataOps, and Big Data technologies.
-
-```
-
-### 🔥 Is order ka logic
-
-**Foundation:**
-Linux → Bash → Networking → Git → Python
-
-⬇️
-
-**Cloud:**
-AWS → Infrastructure
-
-⬇️
-
-**DevOps:**
-Docker → CI/CD → Terraform → Kubernetes → GitOps → Monitoring
-
-⬇️
-
-**Big Data / DataOps:**
-Hadoop → Cloudera CDP → Impala → Kafka → DataOps
-
-⬇️
-
-**Final direction:**
-☁️ **Cloud & DevOps Engineering**
-
-Ye GitHub README me tumhari learning journey ko **beginner → intermediate → advanced → career direction** ke form me clearly show karega.
-```
 
 
 ## 🎯 Career Goal
