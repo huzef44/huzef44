@@ -148,8 +148,7 @@
 
 > Hands-on AWS monitoring project focused on EC2 infrastructure, CloudWatch metrics, logs, and alerting.
 
-🔗 [AWS Cloud Monitoring & Alerting](https://github.com/huzef44/aws-cloudwatch-monitoring-alerting)
-
+🔗 [AWS Cloud Monitoring & Alerting](https://github.com/shahmdsiddik1/aws-cloudwatch-monitoring-alerting)
 **Technologies:**
 `AWS` `EC2` `CloudWatch` `IAM` `Linux`
 
