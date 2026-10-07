@@ -1,243 +1,274 @@
-<!-- ============================================= -->
-<!--              GITHUB PROFILE README            -->
-<!-- ============================================= -->
-
 <p align="center">
-  <img src="./assets/github-banner.png" width="100%" alt="Shaikh Hujef Majidhusen GitHub Banner">
+  <img src="./assets/github-banner.png" width="100%" alt="Shaikh Hujef Majidhusen GitHub Banner" />
 </p>
 
-<br>
-
-<h1 align="center">
-  Hi, I'm Shaikh Hujef Majidhusen 👋
-</h1>
+<h1 align="center">Hi 👋, I'm Shaikh Hujef Majidhusen</h1>
 
 <h3 align="center">
-  Aspiring Cloud & DevOps Engineer | AWS • Linux • Git • Docker • CI/CD • DataOps • Kubernetes • Terraform • GitOps • Hadoop • Cloudera CDP • Impala • Kafka
+  Aspiring Cloud & DevOps Engineer | AWS | Linux | Git | Docker | CI/CD | DataOps | Kubernetes | Terraform | GitOps | Hadoop | Cloudera CDP | Impala | Kafka
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaikh-hujef-89b0b9399">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
   <a href="https://github.com/huzef44">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-huzef44-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-
+  <a href="https://www.linkedin.com/in/shaikh-hujef-89b0b9399">
+    <img src="https://img.shields.io/badge/LinkedIn-Shaikh%20Hujef-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shaikhhujef9603@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 B.Tech Computer Science & Engineering student.
-* ☁️ Building my foundation in Cloud Computing and DevOps.
-* 🐧 Practicing Linux administration, networking, and troubleshooting.
-* 🔧 Working with AWS, Git, GitHub, Bash, Python, and Docker,Kubernetes,Terraform,Cloudera CDP,Impala,Kafka
-* 🚀 Building hands-on projects to understand real-world infrastructure.
-* 📚 Learning Infrastructure as Code, CI/CD, containers, and cloud security.
-* 🔍 Interested in automation, observability, reliability, and scalable infrastructure.
-* 📝 Documenting my Cloud & DevOps learning journey through projects and technical notes.
-
----
-
-## 🛠️ Tech Stack
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" height="40" />
-</p>
-
-### 💻 Programming & Scripting
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash" height="40" />
-</p>
-
-### 🐧 Linux, Git & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" height="40" />
-</p>
-
-### 🏗️ Infrastructure & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=terraform,ansible" height="40" />
-</p>
-
-### 🔄 CI/CD & GitOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes" height="40" />
-</p>
-
-**GitOps • CI/CD Automation • Deployment Workflows**
-
-### 🐘 Big Data & Data Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=hadoop,kafka" height="40" />
-</p>
-
-**Hadoop • HDFS • Cloudera CDP • Impala • Kafka**
-
-### ⚙️ DataOps
-
-**DataOps • Data Workflows • Data Automation • Distributed Data Processing**
-
-### 📊 Monitoring & Observability
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="40" />
-</p>
-
-**CloudWatch • Monitoring • Logging • Observability**
+- ☁️ Aspiring **Cloud & DevOps Engineer**
+- 🚀 Building hands-on experience with **AWS Cloud Infrastructure**
+- 🐧 Practicing **Linux Administration & Troubleshooting**
+- 🔧 Learning and implementing **DevOps automation**
+- 🔄 Working with **Git, GitHub and CI/CD pipelines**
+- 🐳 Building and deploying applications using **Docker**
+- ☸️ Learning **Kubernetes & container orchestration**
+- 🏗️ Practicing **Infrastructure as Code with Terraform**
+- 🔁 Exploring **GitOps workflows**
+- 📊 Learning **Cloud Monitoring, Logging & Observability**
+- 🐍 Using **Python & Bash for automation**
+- 📡 Exploring **Hadoop, Cloudera CDP, Impala & Kafka**
+- 📚 Continuously building practical Cloud & DevOps projects
 
 ---
 
-## 📚 Currently Learning
+# 🛠️ Tech Stack
 
-* ☁️ AWS Cloud Services
-* 🐧 Linux & Bash Scripting
-* 🌐 Computer Networking
-* 🐍 Python for Cloud & DevOps
-* 🐳 Docker & Containerization
-* 🔄 CI/CD with GitHub Actions
-* 🏗️ Terraform & Infrastructure as Code
-* ☸️ Kubernetes
-* 📊 Monitoring & Observability
-* 🔐 Cloud & Infrastructure Security
+## ☁️ Cloud & DevOps
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" />
+</p>
 
-## 🔨 Currently Building
-
-* AWS cloud infrastructure & deployment labs
-* Linux administration & troubleshooting labs
-* Bash automation scripts
-* Git & GitHub version-control workflows
-* Dockerized applications & container workflows
-* CI/CD pipelines with automated build & deployment
-* Kubernetes deployment & container orchestration labs
-* Terraform Infrastructure as Code projects
-* GitOps-based deployment workflows
-* Cloud monitoring & alerting projects
-* DataOps workflows and automation
-* Hadoop & HDFS big-data labs
-* Cloudera CDP cluster administration & management labs
-* Apache Impala data-querying labs
-* Apache Kafka data-streaming labs
-* Cloud & DevOps technical documentation
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
 
 ---
 
-## 📌 Featured Projects
+## 🐍 Programming & Scripting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
+- Python
+- Bash / Shell Scripting
+
+---
+
+## 🐧 Linux, Git & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
+
+- Linux
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🏗️ Infrastructure & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform,ansible" />
+</p>
+
+- Infrastructure as Code
+- Terraform
+- Ansible
+- Configuration & Automation
+
+---
+
+## 🔄 CI/CD & GitOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes" />
+</p>
+
+- CI/CD Pipelines
+- GitHub Actions
+- Docker
+- Kubernetes
+- GitOps
+
+---
+
+## 📊 Big Data & Data Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=hadoop,kafka" />
+</p>
+
+- Hadoop
+- HDFS
+- Cloudera CDP
+- Impala
+- Kafka
+
+### Big Data Technologies
+
+- Hadoop Ecosystem
+- HDFS
+- YARN
+- MapReduce
+- Hive
+- Cloudera CDP
+- Impala
+- Kafka
+
+---
+
+## 🔄 DataOps
+
+- Data Pipeline Automation
+- Data Infrastructure
+- Workflow Automation
+- Monitoring & Reliability
+- Cloud Data Engineering Concepts
+
+---
+
+## 📈 Monitoring & Observability
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+- Prometheus
+- Grafana
+- AWS CloudWatch
+- Monitoring
+- Logging
+- Alerting
+- Observability
+
+---
+
+# 📚 Currently Learning
+
+- ☁️ Advanced AWS Cloud Services
+- 🐳 Docker & Containerization
+- ☸️ Kubernetes
+- 🏗️ Terraform
+- 🔄 GitOps
+- 🔁 CI/CD Automation
+- 📈 Cloud Monitoring & Observability
+- 🔐 Cloud Security Fundamentals
+- ⚙️ DevOps Automation
+- 🤖 MLOps & AI Infrastructure
+
+---
+
+# 🚀 Currently Building
+
+- ☁️ AWS Cloud Infrastructure Labs
+- 🐧 Linux Administration & Troubleshooting Labs
+- 🐚 Bash Automation Scripts
+- 📊 Cloud Monitoring & Alerting
+- 🐳 Dockerized Applications
+- 🔄 CI/CD Pipelines
+- 🏗️ Infrastructure as Code Projects
+- 📖 Technical Documentation
+
+---
+
+# ⭐ Featured Projects
 
 ### ☁️ AWS Cloud Monitoring & Alerting
 
-> Hands-on AWS monitoring project focused on EC2 infrastructure, CloudWatch metrics, logs, and alerting.
+Hands-on AWS monitoring labs using CloudWatch, metrics, alarms and alerting concepts.
 
-🔗 [AWS Cloud Monitoring & Alerting](https://github.com/huzef44)
-
-**Technologies:**
-`AWS` `EC2` `CloudWatch` `IAM` `Linux`
+🔗 **GitHub:**  
+https://github.com/huzef44
 
 ---
 
 ### 🐧 Linux & Bash Projects
 
-> Practical Linux administration, scripting, automation, and troubleshooting exercises.
+Linux administration, troubleshooting and Bash automation practice.
 
-**Technologies:**
-`Linux` `Bash` `Shell Scripting` `Git`
+🔗 **GitHub:**  
+https://github.com/huzef44
 
 ---
 
 ### 🌐 Cloud & Networking Labs
 
-> Hands-on labs covering AWS networking, VPC concepts, EC2 connectivity, security groups, routing, and troubleshooting.
+AWS networking, VPC, subnets, routing, security groups and cloud infrastructure labs.
 
-**Technologies:**
-`AWS VPC` `EC2` `Networking` `Security Groups`
+🔗 **GitHub:**  
+https://github.com/huzef44
 
 ---
 
 ### 🏗️ Infrastructure as Code
 
-> Learning and building infrastructure using Terraform with AWS.
+Terraform-based infrastructure automation and reproducible cloud environments.
 
-**Technologies:**
-`Terraform` `AWS` `IaC`
-
----
-
-## 📂 Repository Categories
-
-| Area            | Focus                                 |
-| --------------- | ------------------------------------- |
-| ☁️ AWS          | Cloud infrastructure & services       |
-| 🐧 Linux        | Administration & troubleshooting      |
-| 🌐 Networking   | VPC, routing & connectivity           |
-| 🔧 Bash         | Automation & scripting                |
-| 🐍 Python       | Cloud & DevOps automation             |
-| 🌿 Git & GitHub | Version control & collaboration        |
-| 🐳 Docker       | Containerization & deployment         |
-| 🔄 CI/CD        | GitHub Actions & automation            |
-| ☸️ Kubernetes   | Container orchestration & deployments |
-| 🏗️ Terraform   | Infrastructure as Code                |
-| 🔁 GitOps       | Git-based deployment workflows        |
-| 📊 Monitoring   | CloudWatch & observability            |
-| ⚙️ DataOps      | Data workflows & automation           |
-| 🐘 Hadoop       | HDFS & distributed data processing    |
-| 🟣 Cloudera CDP | Big-data cluster management           |
-| 🔎 Impala       | Distributed SQL & data querying       |
-| 📨 Kafka        | Event streaming & messaging           |
+🔗 **GitHub:**  
+https://github.com/huzef44
 
 ---
 
-## 📈 My Learning Journey
+# 📂 Repository Categories
+
+| Category | Topics |
+|---|---|
+| ☁️ AWS | EC2, S3, IAM, VPC, CloudWatch |
+| 🐧 Linux | Administration, Processes, Services, Troubleshooting |
+| 🌐 Networking | VPC, Subnets, Routing, Security Groups |
+| 🐚 Bash | Automation & Shell Scripting |
+| 🐍 Python | Automation & Scripting |
+| 🔧 Git & GitHub | Version Control & Collaboration |
+| 🐳 Docker | Containers & Docker Projects |
+| 🔄 CI/CD | GitHub Actions & Automation |
+| ☸️ Kubernetes | Containers & Orchestration |
+| 🏗️ Terraform | Infrastructure as Code |
+| 🔁 GitOps | Git-based Infrastructure & Deployment |
+| 📊 Monitoring | CloudWatch, Prometheus, Grafana |
+| 📡 DataOps | Data Infrastructure & Automation |
+| 🐘 Hadoop | HDFS, YARN, MapReduce |
+| 🏢 Cloudera | Cloudera CDP |
+| ⚡ Impala | Big Data SQL |
+| 📡 Kafka | Event Streaming |
+
+---
+
+# 🧭 My Learning Journey
 
 ```text
-Linux Fundamentals
+Linux & Bash
       ↓
-Bash & Shell Scripting
-      ↓
-Networking Fundamentals
-      ↓
-Git & GitHub
+Networking & Git
       ↓
 Python for Automation
       ↓
-AWS Cloud Fundamentals
+AWS Cloud
       ↓
-Cloud Infrastructure & Services
+Docker
       ↓
-Docker & Containerization
+CI/CD
       ↓
-CI/CD & GitHub Actions
+Terraform
       ↓
-Terraform & Infrastructure as Code
+Kubernetes
       ↓
-Kubernetes & Container Orchestration
+GitOps
       ↓
-GitOps & Automated Deployments
-      ↓
-Cloud Monitoring & Observability
-      ↓
-Hadoop & HDFS
-      ↓
-Cloudera CDP
-      ↓
-Impala & Distributed SQL
-      ↓
-Kafka & Data Streaming
-      ↓
-DataOps & Data Workflows
+Cloud Monitoring
       ↓
 Cloud & DevOps Engineering
